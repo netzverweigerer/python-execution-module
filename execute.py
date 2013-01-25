@@ -1,7 +1,5 @@
 """ execute
 
-Armin J. <netzverweigerer@gmail.com>
-
 Will execute shell commands.
 Returns a tuple containing:
 0) stdout 1) stderr 2) returncode
